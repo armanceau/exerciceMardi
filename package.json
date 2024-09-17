@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "exercicemardi": "file:",
     "express": "^4.21.0"
   },
   "name": "exercicemardi",
