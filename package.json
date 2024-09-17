@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "name": "exercicemardi",
+  "description": "Exercice de ts et express de mardi",
+  "version": "1.0.0",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.5"
+  }
+}
